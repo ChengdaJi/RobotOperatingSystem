@@ -1,0 +1,8 @@
+prefix=/home/chengda/catkin_ws/install
+
+Name: soccermip
+Description: Description of soccermip
+Version: 0.0.0
+Cflags: -I/home/chengda/catkin_ws/install/include
+Libs: -L/home/chengda/catkin_ws/install/lib -lsoccermip
+Requires: edumip_msgs geometry_msgs roscpp rospy std_msgs

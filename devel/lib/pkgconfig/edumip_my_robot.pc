@@ -1,0 +1,8 @@
+prefix=/home/chengda/catkin_ws/devel
+
+Name: edumip_my_robot
+Description: Description of edumip_my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chengda/catkin_ws/devel/lib 
+Requires: 
